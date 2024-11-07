@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the picture of the fireball to be placed in the app?\", \"option1\": \"On the homepage as a banner\", \"option2\": \"In the product details section\"}, {\"question 2\": \"What size do you envision for the fireball image?\", \"option1\": \"Small, to accompany text\", \"option2\": \"Large, as a central visual element\"}], \"input_token_count\": 268, \"output_token_count\": 95, \"time_taken\": \"0:00:01.859778\"}",
+        "timestamp": "07112024170356",
+        "message_id": "guest07112024170350"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm working on adding a picture of a fireball.",
         "timestamp": "07112024170352",
